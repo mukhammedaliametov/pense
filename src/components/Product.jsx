@@ -1,10 +1,10 @@
 import React from 'react';
 import ProductImg from '../assets/Product.png';
-import Logo1 from '../assets/image 1.svg';
-import Logo2 from '../assets/image 2.svg';
-import Logo3 from '../assets/image 3.svg';
-import Logo4 from '../assets/image 4.svg';
-import Logo5 from '../assets/image 5.svg';
+import Logo1 from '../assets/image_1.svg';
+import Logo2 from '../assets/image_2.svg';
+import Logo3 from '../assets/image_3.svg';
+import Logo4 from '../assets/image_4.svg';
+import Logo5 from '../assets/image_5.svg';
 
 const Product = () => {
     return (
