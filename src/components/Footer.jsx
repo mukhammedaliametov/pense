@@ -6,7 +6,7 @@ import Linkedin from "../assets/linkedin.svg";
 
 const Footer = () => {
   return (
-    <div className="max-w-[1220px] mx-auto font-hind">
+    <div className="max-w-[1220px] mx-auto font-hind pt-[40px]">
       <div className="grid grid-cols-1 gap-[20px] px-[16px] lg:px-0 sm:flex items-top justify-between">
         <div>
           <img src={Logo} alt="logo" />
